@@ -4,6 +4,12 @@
 
 Kisan is a farm-work platform that connects farmers with nearby daily-wage workers. Farmers add their fields and post short-term work; workers discover suitable nearby jobs, review the details, and enroll. Ungal Nanban AI is the platform’s AI companion, helps people ask farming questions in simple language.
 
+“உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் 
+தொழுதுண்டு பின்செல் பவர்.” 
+                            — திருக்குறள் 1033“.
+
+பொருள்: தாமே நிலத்தை உழுது உற்பத்தி செய்து வாழ்பவர்களே உண்மையில் வாழ்பவர்கள்; மற்றவர்கள் அவர்களைச் சார்ந்து வாழ்பவர்கள.
+
 ## Hackathon demo
 
 - Farmer dashboard with a registered field and a guided work-request form
